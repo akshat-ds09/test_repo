@@ -36,3 +36,7 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ## sample header level 2
 
 ### sample header level 3
+
+```{r, echo=TRUE}
+print("this is a simple print message")
+```
